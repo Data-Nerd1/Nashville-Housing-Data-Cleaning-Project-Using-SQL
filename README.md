@@ -1,0 +1,2 @@
+# Nashville Housing Data Cleaning Project Using SQL
+   This project focuses on cleaning and preprocessing Nashville housing data using SQL to improve data quality. Key tasks include:  Importing and Exploring Data: Understanding the dataset structure. Handling Missing Values: Managing incomplete data. Removing Duplicates: Eliminating redundant records. Standardizing Formats: Ensuring consistency in data formats. Validating and Correcting Data: Identifying and fixing errors. The goal is to produce a clean, reliable dataset for accurate analysis and insights.
